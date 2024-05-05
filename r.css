@@ -1,0 +1,17 @@
+#demoparagraph {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    -webkit-column-rule: 1px solid rgb(245, 245, 245);
+    -moz-column-rule: 1px solid rgb(255, 255, 255);
+    column-rule: 1px solid rgb(255, 255, 255);
+    }
+
+
+#background {
+    background: #000000;
+}
+
